@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: latoucha
-        password: Dysglw@2910
+        password: Dysglwa2910
         server-dir : public_html/
